@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beauty-dnd/static/css/main.c109f5cd.chunk.css",
+    "main.js": "/beauty-dnd/static/js/main.55343ba2.chunk.js",
+    "main.js.map": "/beauty-dnd/static/js/main.55343ba2.chunk.js.map",
+    "runtime-main.js": "/beauty-dnd/static/js/runtime-main.7afa79f3.js",
+    "runtime-main.js.map": "/beauty-dnd/static/js/runtime-main.7afa79f3.js.map",
+    "static/js/2.b2eaac50.chunk.js": "/beauty-dnd/static/js/2.b2eaac50.chunk.js",
+    "static/js/2.b2eaac50.chunk.js.map": "/beauty-dnd/static/js/2.b2eaac50.chunk.js.map",
+    "index.html": "/beauty-dnd/index.html",
+    "precache-manifest.9dee920b6bc397b19f62558e528b97b9.js": "/beauty-dnd/precache-manifest.9dee920b6bc397b19f62558e528b97b9.js",
+    "service-worker.js": "/beauty-dnd/service-worker.js",
+    "static/css/main.c109f5cd.chunk.css.map": "/beauty-dnd/static/css/main.c109f5cd.chunk.css.map",
+    "static/js/2.b2eaac50.chunk.js.LICENSE.txt": "/beauty-dnd/static/js/2.b2eaac50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afa79f3.js",
+    "static/js/2.b2eaac50.chunk.js",
+    "static/css/main.c109f5cd.chunk.css",
+    "static/js/main.55343ba2.chunk.js"
+  ]
+}
